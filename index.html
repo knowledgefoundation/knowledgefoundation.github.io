@@ -30,9 +30,9 @@ bodyClass: page-home
 <div class="container pt-8 pt-md-10">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h2 class="title-3 text-dark mb-3">Our Services</h2>
+      <h2 class="title-3 text-dark mb-3">Our Courses</h2>
     </div>
-    {% for service in site.services %}
+    {% for service in site.courses %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
@@ -45,7 +45,7 @@ bodyClass: page-home
     </div>
     {% endfor %}
     <div class="col-12 text-center">
-      <a class="button button-primary mt-2" href="{{site.baseurl}}/services">View All Services</a>
+      <a class="button button-primary mt-2" href="{{site.baseurl}}/courses">View All Courses</a>
     </div>
   </div>
 </div>

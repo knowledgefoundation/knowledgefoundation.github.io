@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Courses
 layout: default
 bodyClass: page-services-list
 ---
@@ -8,7 +8,7 @@ bodyClass: page-services-list
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Knowledge Foundation Services</h1>
+        <h1>Knowledge Foundation courses</h1>
         <p>
           Empowering companies with <b>Knowledge</b> for making better business decisions
         </p>
@@ -21,14 +21,14 @@ bodyClass: page-services-list
 
 <div class="container pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for course in site.courses %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <a href="{{site.baseurl}}{{ course.url }}">{{ course.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 100 }}
+          {{ course.content | markdownify | strip_html | truncate: 100 }}
         </div>
       </div>
     </div>

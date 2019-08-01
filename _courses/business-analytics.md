@@ -1,5 +1,5 @@
 ---
-title: 'Business Analytics'
+title: 'Business Analytics in R'
 image: '/services/noun_591323.png'
 ---
 
