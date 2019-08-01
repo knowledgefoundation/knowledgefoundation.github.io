@@ -22,13 +22,13 @@ bodyClass: page-services-list
 <div class="container pb-6">
   <div class="row">
     {% for course in site.courses %}
-    <div class="col-12 col-md-4 mb-1">
+    <div class="col-12 col-md-6 mb-1">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ course.url }}">{{ course.title }}</a>
           </h2>
-          {{ course.content | markdownify | strip_html | truncate: 100 }}
+          {{ course.content | markdownify | strip_html | truncate: 300 }}
         </div>
       </div>
     </div>
