@@ -5,7 +5,8 @@ image: '/services/noun_591323.png'
 
 How do you navigate this digital world with the huge amount of information presented to you ? Practical Business Analytics training will help you make data driven decisions in this digital world.     
 
-Tired of reading pages of boring text and unfriendly mathematical books ? We will teach with case studies in a friendly intuitive way. Bring your own laptops and lets begin your exciting journey in Data Science. At the end of this course , you will be able to showcase your data science portfolio in your own website.                 
+Tired of reading pages of boring text and unfriendly mathematical books ? We will teach with case studies in a friendly intuitive way. Bring your own laptops and lets begin your exciting journey in Data Science. At the end of this course , you will be able to showcase your data science portfolio in your own website.    
+             
 For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact</a>
 
 
@@ -44,6 +45,15 @@ End to End machine learning Part 1
 ## Day 8           
 End to End machine learning Part 2      
 - Modelling using Generalized Linear models , XGBoost            
-- Wrap up         
+- Wrap up            
+
+## Day 9           
+Unsupervised Learning     
+- KMeans Clustering               
+- Hiearchical  Clustering        
+
+## Day 10
+1. Principal Component Analysis            
+2. Next steps after finishing this course              
 
 **Have Fun doing Business Analytics!**
