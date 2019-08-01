@@ -4,6 +4,10 @@ permalink: pretty
 title: 'Knowledge Foundation'
 email: 'write2kfoundation@gmail.com'
 
+# Pagination
+paginate: 6
+paginate_path: "blog/page:num"
+
 collections:
   courses:
     output: true
@@ -14,6 +18,9 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
+  posts:
+    output: true
+    permalink: /posts/:path/
 
 defaults:
   - scope:
@@ -33,3 +40,4 @@ google_analytics_id: null
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-paginate
