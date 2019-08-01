@@ -1,49 +1,47 @@
 ---
 title: 'Business Analytics'
-image: 'images/services/business-analytics.jpg'
+image: '/services/noun_591323.png'
 ---
 
-How do you navigate this digital world with the huge amount of information presented to you ? Practical Business Analytics training will help you make data driven decisions in this digital world.             
+How do you navigate this digital world with the huge amount of information presented to you ? Practical Business Analytics training will help you make data driven decisions in this digital world.     
 
+Tired of reading pages of boring text and unfriendly mathematical books ? We will teach with case studies in a friendly intuitive way. Bring your own laptops and lets begin your exciting journey in Data Science. At the end of this course , you will be able to showcase your data science portfolio in your own website.              
 
-## Ne verba patulosque numen vix libet
+## Day 1
+1. Introduction to Data Science
+2. R Basics
+3. Data Manipulation with `tidyverse`           
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Day 2                 
+1. Data Visualization and Exploratory Data Analysis with `ggplot2`       
+2. Case Study 1 on Exploratory Data Analysis          
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+##  Day 3
+1. Case Study 2 on Exploratory Data Analysis             
+2. Modelling basics             
+3. Cross Validation            
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Day 4
+1. Linear Regression        
+2. Ridge and Lasso Regression                 
 
-## Postquam tamen
+## Day 5
+1. Logistic Regression             
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Day 6
+1. Decision Trees            
+2. Building a Data Science Portfolio           
+          
+## Day 7              
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Use the learnings in a **Kaggle competition**       
+End to End machine learning Part 1       
+- Exploratory Data Analysis            
+- Feature Engineering            
+                        
+## Day 8           
+End to End machine learning Part 2      
+- Modelling using Generalized Linear models , XGBoost            
+- Wrap up         
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+**Have Fun doing Business Analytics!**
