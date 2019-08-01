@@ -6,6 +6,10 @@ image: '/services/noun_591323.png'
 How do you navigate this digital world with the huge amount of information presented to you ? Practical Business Analytics training will help you make data driven decisions in this digital world.     
 
 Tired of reading pages of boring text and unfriendly mathematical books ? We will teach with case studies in a friendly intuitive way. Bring your own laptops and lets begin your exciting journey in Data Science. At the end of this course , you will be able to showcase your data science portfolio in your own website.              
+<div class="call-box-bottom">
+For more details , do contact us
+      <a href="{{site.baseurl}}/contact" class="button">Contact</a>
+</div>
 
 ## Day 1
 1. Introduction to Data Science
