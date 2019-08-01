@@ -1,0 +1,37 @@
+---
+title: Services
+layout: default
+bodyClass: page-services-list
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Knowledge Foundation Services</h1>
+        <p>
+          Empowering companies with <b>Knowledge</b> for making better business decisions
+        </p>
+      </div>
+     </div>
+  </div>
+</div>
+
+<br/>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for service in site.services %}
+    <div class="col-12 col-md-4 mb-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+          </h2>
+          {{ service.content | markdownify | strip_html | truncate: 100 }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
