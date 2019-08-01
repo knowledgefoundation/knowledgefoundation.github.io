@@ -5,9 +5,9 @@ title: 'Knowledge Foundation'
 email: 'ambarish.ganguly@gmail.com'
 
 collections:
-  services:
+  courses:
     output: true
-    permalink: /services/:path/
+    permalink: /courses/:path/
   team:
     output: true
     permalink: /team/:path/
@@ -17,7 +17,7 @@ collections:
 
 defaults:
   - scope:
-      type: services
+      type: courses
     values:
       layout: service
       bodyClass: page-services-single
