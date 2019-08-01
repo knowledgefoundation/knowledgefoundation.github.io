@@ -2,7 +2,7 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Knowledge Foundation'
-email: 'ambarish.ganguly@gmail.com'
+email: 'write2kfoundation@gmail.com'
 
 collections:
   courses:
