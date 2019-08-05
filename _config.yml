@@ -1,8 +1,8 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Knowledge Foundation'
-email: 'write2kfoundation@gmail.com'
+title: 'Wisdom Foundation'
+email: 'admission@wisdomfoundation.in'
 
 collections:
   courses:
