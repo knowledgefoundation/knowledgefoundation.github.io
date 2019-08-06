@@ -3,8 +3,8 @@ title: Contact
 layout: default
 bodyClass: page-contact
 ---
-<form action="https://formspree.io/{{ site.email }}"
-                  method="POST">
+
+<form id="contact-form" method="post">
 <div class="intro intro-small">
   <div class="container">
     <div class="row">
@@ -15,27 +15,27 @@ bodyClass: page-contact
         <ul>
           <div class="container">
             <div class="opens">
-              <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="">
+              <input type="text" name="name" id = "name-input" placeholder="First and Last Name" required="">
             </div>
             <br/>
               <div class="opens">
-              <input type="email" name="email" placeholder="Your email" width="50%" required = "" >
+              <input type="email" name="email" id = "email-input" placeholder="Your email" width="50%" required = "" >
               </div>
               <br/>
               <div class="opens">
-                <input type="message" name="mobile" placeholder="Your mobile" width="50%" >
+                <input type="message" name="phone" id = "phone-input" placeholder="Your phone" width="50%" >
               </div>
               <br/>
               <div class="opens">
-                <input type="text" name="Institution/Company" id="company" placeholder="Institution/Company" required="">
+                <input type="text" name="company"  id = "company-input" placeholder="Institution/Company" required="">
               </div>
               <br/>
               <div class="opens">
-              <textarea name="message" placeholder="Your message" rows="4" cols="50"></textarea>
+              <textarea name="message" id = "message-input" placeholder="Your message" rows="4" cols="50"></textarea>
               </div>
            
               <div class="call-box-bottom">
-              <button type="submit" class="button">Send</button> 
+              <button type="submit" class="button" onClick="submitToAPI(event)" >Send</button> 
               </div>
             
             </div>
@@ -47,3 +47,8 @@ bodyClass: page-contact
   </div>
 </div>
 </form>
+
+
+
+
+
