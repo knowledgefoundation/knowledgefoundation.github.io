@@ -7,16 +7,17 @@ function submitToAPI(e) {
                          alert ("Name can not less than 2 char");
                 return;
             }
+
+            if ($("#email-input").val()=="") {
+              alert ("Please enter your email id");
+              return;
+            }
             var mobilere = /[0-9]{10}/;
             if (!mobilere.test($("#phone-input").val())) {
                 alert ("Please enter valid mobile number");
                 return;
             }
-            if ($("#email-input").val()=="") {
-                alert ("Please enter your email id");
-                return;
-            }
-
+          
             var reeamil = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,6})?$/;
             if (!reeamil.test($("#email-input").val())) {
                 alert ("Please enter valid email address");
