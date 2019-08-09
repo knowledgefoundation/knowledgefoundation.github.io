@@ -30,7 +30,9 @@ There is a fuzzy difference between Machine Learning and Data Science. Machine l
 <span style="color:blue">
 Arthur Samuel 
 </span>
-was one of the pioneers of machine learning.In contrast, data science is the science of extracting knowledge and insights from data. So, the output of a data science project is often a slide deck, the PowerPoint presentation that summarizes conclusions for executives to take business actions or that summarizes conclusions for a product team to decide
+was one of the pioneers of machine learning.          
+
+In contrast, **Data Science** is the science of extracting knowledge and insights from data. So, the output of a data science project is often a slide deck, the PowerPoint presentation that summarizes conclusions for executives to take business actions or that summarizes conclusions for a product team to decide
 how to improve a product ( example a website )              
 
 **What is Deep Learning ?**                
