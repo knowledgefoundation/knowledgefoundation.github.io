@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is AI , Machine Learning , Deep Learning and Data Science ?
+title: What is AI , Machine Learning , Deep Learning and Data Science 2?
 categories: 
 - Welcome
 tags:
@@ -38,9 +38,6 @@ how to improve a product ( example a website )
 **What is Deep Learning ?**                
 
 Deep learning has a structure similiar to a figure below             
-<div>
-<img src="../../assets/images/DL.jpg" class="img-responsive" alt="Deep Learning" >
-</div>
 
 The elements in the box comprise the **Neural Network**. The circles are the neurons. In a very very simplistic manner, the neurons and the connections between the neurons is a big mathematical equation. Nothing to be frightned off, this mathematical equation can be broken into simpler understandable units.               
 
@@ -54,9 +51,6 @@ Machine learning algorithms use inputs which are provided with the data along wi
 
 AI is composed of various things such as Machine Learning , Deep Learning and various others forms of methods such as Probalistic Graphical Models , Knowledge Graphs. Deep Learning is a specialized form of Machine learning. Data Science can be thought of as intersection of AI , ML , DL.         
 
-<div>
-<img src="../../assets/images/AI.jpg" class="img-responsive" alt="AI" >
-</div>
 
 <br/>
 
