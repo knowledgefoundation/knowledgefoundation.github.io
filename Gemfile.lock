@@ -251,6 +251,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-environment-variables
+  jekyll-paginate
 
 BUNDLED WITH
    1.17.2
