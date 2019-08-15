@@ -4,7 +4,7 @@ image: '/services/noun_591323.png'
 num : 5
 ---
 
-A 1 day workshop which would bust the various jargons such as AI , Machine Learning , Deep Learning , Data Science . 
+A 1 day workshop which would **demystify** the various jargons such as AI , Machine Learning , Deep Learning , Data Science . 
 
 Through this session you will be able to understand the relation between AI , Machine Learning , Deep Learning , Data Science . You will understand how these concepts are applied to real life case studies in marketing , finance , health care , social media and various other industries.      
 
