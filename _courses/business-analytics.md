@@ -1,6 +1,7 @@
 ---
 title: 'Business Analytics in R'
-image: '/services/noun_591323.png'
+image: '/services/noun_591323.png'  
+num : 40
 ---
 
 How do you navigate this digital world with the huge amount of information presented to you ? Practical Business Analytics training will help you make data driven decisions in this digital world.     
