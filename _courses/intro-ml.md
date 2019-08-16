@@ -22,8 +22,7 @@ For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact
 1. Model Validation        
 2. Underfitting and Overfitting       
 3. Random Forests      
-4. Xgboost     
-5. How to participate in Data Science competitions       
+   
 
 
 **Have Fun doing Machine Learning!**
