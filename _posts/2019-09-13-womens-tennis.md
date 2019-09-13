@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Womens Tennis Matches Data Analysis
 categories: 
 - Welcome
 tags:
@@ -8,12 +8,12 @@ tags:
 description: Women's Tennis Matches Data Analysis    
 
 ---         
-
 The WTA (Women's Tennis Association) is the principal organizing body of women's professional tennis, it governs its own tour worldwide. On its website, it provides a lot of data about the players as individuals as well the tour matches with results and the current rank during it.          
 
 The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-matches-and-rankings) covers statistics of players registered on the WTA (Womens Tennis Association), the matches that happened on each tour by year, with results, as well some qualifying matches for the tours    
 
-`Found some interesting analysis on the data covering from 2000 to 2017( a part of it).`
+**Found some interesting analysis on the data covering from 2000 to 2017( a part of it).**       
+
 
 **Players domination**              
 
@@ -64,7 +64,6 @@ We investigate the Top Winners in the different Tournament Levels
 **Upset Analysis**               
 
 We could consider an upset if the winner rank is greater than the loser rank by at least 10. We plot the ranking difference between winners and losers for the grand slams.               
-
 
 * We observe that the upsets are few in Grand Slams Finals. But some of them are there and lets find out what they are.Venus Williams has created Two upsets in Grand Slam Finals.2017 saw an upset in the US Open when Sloane Stephens defeated Venus Williams in the semifinals and Madison Keys in the finals.             
 
