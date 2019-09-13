@@ -23,7 +23,10 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 * 1984 to 1996 was dominated by Three players Martina Navratilova, Steffi Graf and Monica Seles. 1997 to around 2002 was dominated by Lindsay Davenport and Martina Hingis            
 * In the analysis of the years 2000 to 2017( part of it ), Serena has dominated the Grand Slams winning **7 Australian Opens , 3 French Opens , 7 Wimbledons and 5 US Opens**            
 
-**Winning after losing either the First Or Second Set**             
+<u>
+<b>Winning after losing either the First Or Second Set</b>
+</u>   
+     
 
 * The probability of **winning a US Open Final after losing the first set in a Final is Zero**.            
 
@@ -55,7 +58,10 @@ Considering all surfaces , Russians , Americans and French have won the most mat
 
 * On the Carpet surface, Russians, French and Americans occupy the top Three positions                    
 
-**Tournament Level Analysis**            
+<u>
+<b>Tournament Level Analysis</b>
+</u>  
+         
 
 We investigate the Top Winners in the different Tournament Levels         
 
@@ -66,7 +72,10 @@ We investigate the Top Winners in the different Tournament Levels
 * Amelie Mauresmo , Lindsay Davenport and Kim Clijsters occupy the Top Three spots in T2 tournaments.The T2 tournaments with the most matches are Amelia Island, Los Angeles and Sydney            
 
 
-**Upset Analysis**               
+
+<u>
+<b>Upset Analysis</b>
+</u>               
 
 We could consider an upset if the winner rank is greater than the loser rank by at least 10. We plot the ranking difference between winners and losers for the grand slams.               
 
