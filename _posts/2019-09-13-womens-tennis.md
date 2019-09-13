@@ -14,18 +14,18 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 
 **Found some interesting analysis on the data covering from 2000 to 2017( a part of it).**       
 
-<u>
-  <b>Players domination</b>
-</u>
+<div class="alert alert-success" role="alert">
+ Players domination
+</div>   
+
 
 * There is no complete domination in the years 2017–2003 **except for 2014 and 2015, which was dominated by Serena Williams**                       
 * 1984 to 1996 was dominated by Three players Martina Navratilova, Steffi Graf and Monica Seles. 1997 to around 2002 was dominated by Lindsay Davenport and Martina Hingis            
 * In the analysis of the years 2000 to 2017( part of it ), Serena has dominated the Grand Slams winning **7 Australian Opens , 3 French Opens , 7 Wimbledons and 5 US Opens**            
 
-    
-<u>
-  <b>Winning after losing either the First Or Second Set</b>
-</u>
+<div class="alert alert-success" role="alert">
+ Winning after losing either the First Or Second Set
+</div>   
 
 * The probability of **winning a US Open Final after losing the first set in a Final is Zero**.            
 
@@ -39,10 +39,10 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 
 * The probability of winning after losing the Second Set across all matches is 14%
 
-<u>
-  <b>Surface Analysis</b>
-</u>
-       
+<div class="alert alert-success" role="alert">
+ Surface Analysis
+</div>   
+      
 
 During the period 2000–2017 ( part of the data of 2017 is present) , the following observations are made               
 
@@ -57,9 +57,10 @@ Considering all surfaces , Russians , Americans and French have won the most mat
 
 * On the Carpet surface, Russians, French and Americans occupy the top Three positions                    
 
-<u>
-  <b>Tournament Level Analysis</b>
-</u>
+<div class="alert alert-success" role="alert">
+ Tournament Level Analysis
+</div>    
+         
 
 We investigate the Top Winners in the different Tournament Levels         
 
@@ -69,10 +70,9 @@ We investigate the Top Winners in the different Tournament Levels
 
 * Amelie Mauresmo , Lindsay Davenport and Kim Clijsters occupy the Top Three spots in T2 tournaments.The T2 tournaments with the most matches are Amelia Island, Los Angeles and Sydney            
 
-<u>
-  <b>Upset Level Analysis</b>
-</u>
-
+<div class="alert alert-success" role="alert">
+ Upset Level Analysis
+</div>              
 
 We could consider an upset if the winner rank is greater than the loser rank by at least 10. We plot the ranking difference between winners and losers for the grand slams.               
 
