@@ -15,7 +15,9 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 **Found some interesting analysis on the data covering from 2000 to 2017( a part of it).**       
 
 
-**Players domination**              
+<u>
+<b>Players domination</b>
+</u>            
 
 * There is no complete domination in the years 2017–2003 **except for 2014 and 2015, which was dominated by Serena Williams**                       
 * 1984 to 1996 was dominated by Three players Martina Navratilova, Steffi Graf and Monica Seles. 1997 to around 2002 was dominated by Lindsay Davenport and Martina Hingis            
@@ -35,7 +37,10 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 
 * The probability of winning after losing the Second Set across all matches is 14%
 
-**Surface Analysis**         
+<u>
+<b>Surface Analysis</b>
+</u>            
+       
 
 During the period 2000–2017 ( part of the data of 2017 is present) , the following observations are made               
 
