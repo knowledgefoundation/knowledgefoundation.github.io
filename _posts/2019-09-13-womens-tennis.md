@@ -12,9 +12,10 @@ The WTA (Women's Tennis Association) is the principal organizing body of women's
 
 The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-matches-and-rankings) covers statistics of players registered on the WTA (Womens Tennis Association), the matches that happened on each tour by year, with results, as well some qualifying matches for the tours    
 
-**Found some interesting analysis on the data covering from 2000 to 2017( a part of it).**       
+**Found some interesting analysis on the data covering from 2000 to 2017( a part of it).**  
 
-<img class="img-responsive" src="../../assets/images/womens-tennis/tennisball.jpeg" width = "600em" height = "400em" alt="Womens Tennis">
+
+<img class="img-responsive" src="../../assets/images/womens-tennis/tennisball.jpeg" width = "275px" height = "100%" alt="Womens Tennis">
 
 <div class="alert alert-success" role="alert">
  Players domination
