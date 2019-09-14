@@ -18,6 +18,8 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
 	<img class="col three" src="../../assets/images/womens-tennis/tennisball.jpeg">
 </div>
 
+<br/>
+
 <div class="alert alert-success" role="alert">
  Players domination
 </div>   
