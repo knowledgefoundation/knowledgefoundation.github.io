@@ -22,7 +22,6 @@ The Kaggle Dataset found [here](https://www.kaggle.com/joaoevangelista/wta-match
  Players domination
 </div>   
 
-
 * There is no complete domination in the years 2017–2003 **except for 2014 and 2015, which was dominated by Serena Williams**                       
 * 1984 to 1996 was dominated by Three players Martina Navratilova, Steffi Graf and Monica Seles. 1997 to around 2002 was dominated by Lindsay Davenport and Martina Hingis            
 * In the analysis of the years 2000 to 2017( part of it ), Serena has dominated the Grand Slams winning **7 Australian Opens , 3 French Opens , 7 Wimbledons and 5 US Opens**            
