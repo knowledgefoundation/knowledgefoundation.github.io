@@ -41,6 +41,7 @@ Deep learning has a structure similiar to a figure below
 
 ![Deep Learning](../../assets/images/DL.jpg){:class="img-responsive"}
 
+
 The elements in the box comprise the **Neural Network**. The circles are the neurons. In a very very simplistic manner, the neurons and the connections between the neurons is a big mathematical equation. Nothing to be frightned off, this mathematical equation can be broken into simpler understandable units.               
 
 **What is the difference between Deep Learning and Machine Learning ?**       
