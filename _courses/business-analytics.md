@@ -8,9 +8,7 @@ How do you navigate this digital world with the huge amount of information prese
 
 Tired of reading pages of boring text and unfriendly mathematical books ? We will teach with case studies in a friendly intuitive way. Bring your own laptops and lets begin your exciting journey in Data Science. At the end of this course , you will be able to showcase your data science portfolio in your own website.   
 
-The course would start on **7th September 2019** . The price is **INR 15000**         
-The price for 5 early birds is **INR 12000**. The workshop would be conducted in **Kolkata**.              
-
+The price is **INR 15000**               
              
 For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact</a>
 
