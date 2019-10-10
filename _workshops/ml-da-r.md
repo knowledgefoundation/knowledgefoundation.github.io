@@ -4,7 +4,7 @@ image: ''
 businessurl: ''
 name: ''
 business: ''
-jobtitle: ''
+jobtitle: 'In Collaboration with Calcutta University Dept of Information Technology and B.P. Poddar Institute of Management and Technology'
 ---
 
 > 

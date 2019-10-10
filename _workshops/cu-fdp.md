@@ -4,7 +4,7 @@ image: ''
 businessurl: ''
 name: ''
 business: ''
-jobtitle: ''
+jobtitle: 'In Collaboration with Calcutta University Dept of Computer Science and  Engineering'
 ---
 
 >
