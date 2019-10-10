@@ -1,6 +1,6 @@
 ---
 title: 'Calcutta University Faculty Development Program'
-image: ''
+image: '/assets/images/workshops/cu.png'
 businessurl: ''
 name: ''
 business: ''
