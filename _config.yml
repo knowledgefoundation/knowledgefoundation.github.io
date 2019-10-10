@@ -14,9 +14,9 @@ collections:
   team:
     output: true
     permalink: /team/:path/
-  testimonials:
+  workshops:
     output: true
-    permalink: /testimonials/:path/
+    permalink: /workshops/:path/
 
 
 defaults:

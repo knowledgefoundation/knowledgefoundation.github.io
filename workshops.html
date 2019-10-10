@@ -1,0 +1,34 @@
+---
+title: Workshops
+layout: default
+bodyClass: page-testimonials-list
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Workshops conducted</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container pb-6">
+  <div class="row">
+    {% for workshop in site.workshops %}
+    <div class="col-12 col-md-6 mb-2 ">
+      <div class="testimonials testimonials-summary">
+        <div class="testimonials-meta">
+          <h2 class="testimonials-title">{{ workshop.title }}</h2>
+          <p class="testimonials-name">{{ workshop.name }}</p>
+          <p class="testimonials-jobtitle">{{ workshop.jobtitle }}</p>
+        </div>
+        <div class="testimonials-content">{{ workshop.content }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
