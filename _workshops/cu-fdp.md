@@ -1,13 +1,11 @@
 ---
 title: 'Calcutta University Faculty Development Program'
-image: '/assets/images/workshops/cu.png'
+image: '/images/workshops/cu.jpg'
 businessurl: ''
 name: ''
 business: ''
 jobtitle: 'In Collaboration with Calcutta University Dept of Computer Science and  Engineering'
 ---
-
->
 
 A workshop was conducted in the **Calcutta University Technology Campus** on the applications of Data Science in various industries such as banking, insurance , medicine , ecology  and society.              
 
