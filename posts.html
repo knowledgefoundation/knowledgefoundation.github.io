@@ -5,25 +5,17 @@ layout: default
 <br/>
 
 <div class="container pb-6">
-    <div class="row">
-      {% for post in site.posts %}
-      <div class="col-12 col-md-12 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            {{ post.content | markdownify | strip_html | truncate: 300 }}
-          </div>
+  <div class="row">
+    {% for post in site.posts %}
+    <div class="col-12 col-md-4 mb-2">
+      <div class="service service-summary">
+        <div class="feature">
+         <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+         {{ post.content | markdownify | strip_html | truncate: 300 }}
         </div>
       </div>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      {% endfor %}
     </div>
+    {% endfor %}
   </div>
-
+</div>
 
