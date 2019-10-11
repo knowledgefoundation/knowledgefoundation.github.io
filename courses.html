@@ -26,12 +26,12 @@ bodyClass: page-services-list
   <div class="row">
     {% assign sorted_courses = site.courses | sort:"num" %}
     {% for course in sorted_courses %}
-    <div class="col-12 col-md-4 mb-1">
+    <div class="col-12 col-md-4 mb-2">
       <div class="service service-summary">
         <div class="feature">
-          <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ course.url }}">{{ course.title }}</a>
-          </h2>
+         
+          <a href="{{site.baseurl}}{{ course.url }}">{{ course.title }}</a>
+          
           {{ course.content | markdownify | strip_html | truncate: 100 }}
         </div>
       </div>
