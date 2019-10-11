@@ -12,13 +12,10 @@ bodyClass: page-testimonials-list
     </div>
     {% for workshop in site.workshops %}
     <div class="col-12 col-md-6 col-lg-4 mb-1">
-      <div class="feature">
-        
+      <div class="feature bg-light">
           <h4 class="testimonials-title">{{ workshop.title }}</h4>
           <p class="testimonials-name">{{ workshop.name }}</p>
           <p class="testimonials-jobtitle text-primary">{{ workshop.jobtitle }}</p>
-        
-        
       </div>
     </div>
     {% endfor %}

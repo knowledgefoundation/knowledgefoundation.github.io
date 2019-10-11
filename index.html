@@ -36,9 +36,9 @@ bodyClass: page-home
     {% for service in sorted_courses %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
-        <div class="feature">
+        <div class="feature bg-light ">
           
-          <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+          <a  href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           
           {{ service.content | markdownify | strip_html | truncate: 100 }}
         </div>
