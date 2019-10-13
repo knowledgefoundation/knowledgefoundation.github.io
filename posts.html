@@ -10,12 +10,16 @@ layout: default
     <div class="col-12 col-md-4 mb-2">
       <div class="service service-summary">
         <div class="feature">
-         <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-         {{ post.content | markdownify | strip_html | truncate: 300 }}
-        </div>
+            
+            <div class = "feature-content">
+                <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+            </div>
+           <div class = "feature-content">
+            {{ post.content | markdownify | strip_html | truncate: 300 }}
+          </div>
+         </div>
       </div>
     </div>
     {% endfor %}
   </div>
 </div>
-

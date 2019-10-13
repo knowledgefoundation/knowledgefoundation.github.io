@@ -1,10 +1,10 @@
 ---
-title: 'Advanced Machine Learning'
+title: 'Intermediate Machine Learning'
 image: '/services/noun_591323.png' 
 num : 32  
 ---
 
-This course will provide you with topics related to advanced Machine Learning.
+This course will provide you with topics related to intermediate Machine Learning.
 
 Concepts such as data handling for missing values, treatment of categorical variables, cross validation , xgboost , unsupervised learning would be discussed           
         

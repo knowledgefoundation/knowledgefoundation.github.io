@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Womens Tennis Matches Data Analysis
+image : "../../assets/images/womens-tennis/tennisball.jpeg"
 categories: 
 - Tennis
 tags:
