@@ -19,10 +19,11 @@ For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact
 
 
 ## Day 2                 
-1. Lasso Regression       
-2. Ridge Regression       
-3. Xgboost      
-4. Clustering     
+1. Polynomial Regression            
+2. Lasso Regression       
+3. Ridge Regression       
+4. Xgboost      
+5. Unsupervised Learning                    
 5. Principal Component Analysis     
 
 
