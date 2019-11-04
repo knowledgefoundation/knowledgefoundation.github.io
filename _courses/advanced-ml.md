@@ -2,6 +2,7 @@
 title: 'Intermediate Machine Learning'
 image: '/services/noun_591323.png' 
 num : 32  
+category : 'Machine Learning'
 ---
 
 This course will provide you with topics related to intermediate Machine Learning.

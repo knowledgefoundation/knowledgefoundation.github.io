@@ -2,6 +2,7 @@
 title: 'Simplifying AI , ML , DL and Data Science'
 image: '/services/noun_591323.png'  
 num : 5
+category : 'Machine Learning'
 ---
 
 A 1 day workshop which would **demystify** the various jargons such as AI , Machine Learning , Deep Learning , Data Science . 

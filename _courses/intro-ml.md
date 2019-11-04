@@ -2,6 +2,7 @@
 title: 'Introduction to Machine Learning'
 image: '/services/noun_591323.png' 
 num : 30  
+category : 'Machine Learning'
 ---
 
 This course will provide you with an introduction to Machine Learning. The participants would be able to understand the concepts involved in building a Model.             
