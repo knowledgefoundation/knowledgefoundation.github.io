@@ -1,9 +1,8 @@
 ---
+layout: service
+bodyClass: page-services-single
 title: 'Calcutta University Faculty Development Program'
-image: '/images/workshops/cu.jpg'
-businessurl: ''
-name: ''
-business: ''
+image: '/services/noun_591323.png' 
 jobtitle: 'In Collaboration with Calcutta University Dept of Computer Science and  Engineering'
 num : 10
 ---

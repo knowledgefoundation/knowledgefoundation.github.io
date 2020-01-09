@@ -1,9 +1,8 @@
 ---
+layout: service 
+bodyClass: page-services-single
 title: 'Data Science in Xavier Institute of Social Sciences ( Ranchi )'
-image: '/assets/images/workshops/cu.png'
-businessurl: ''
-name: ''
-business: ''
+image: '/services/noun_591323.png' 
 jobtitle: 'In Collaboration with Xavier Institute of Social Sciences ( Ranchi )'
 num : 30
 ---

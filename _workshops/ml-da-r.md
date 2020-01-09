@@ -1,9 +1,8 @@
 ---
+layout: service
+bodyClass: page-services-single
 title: 'Machine Learning and Data Analytics using R'
-image: ''
-businessurl: ''
-name: ''
-business: ''
+image: '/services/noun_591323.png' 
 jobtitle: 'In Collaboration with Calcutta University Dept of Information Technology and B.P. Poddar Institute of Management and Technology'
 num : 20
 ---

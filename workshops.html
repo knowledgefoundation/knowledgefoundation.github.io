@@ -14,9 +14,10 @@ bodyClass: page-testimonials-list
     {% for workshop in sorted_workshops %}
     <div class="col-12 col-md-6 col-lg-4 mb-1">
       <div class="feature bg-light">
-          <h4 class="testimonials-title">{{ workshop.title }}</h4>
-          <p class="testimonials-name">{{ workshop.name }}</p>
-          <p class="testimonials-jobtitle text-primary">{{ workshop.jobtitle }}</p>
+        <a href="{{site.baseurl}}{{ workshop.url }}">
+          {{ workshop.title }}</a>
+          <p class="testimonials-title">{{ workshop.name }}</p>
+          <p class="testimonials-title">{{ workshop.jobtitle }}</p>
       </div>
     </div>
     {% endfor %}
