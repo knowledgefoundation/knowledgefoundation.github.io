@@ -10,14 +10,14 @@ Introductory Course on Deep Learning and Convolutional Neural Networks with PyTo
 For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact</a>
 
 ## Session 1
-Perceptron, Activation Functions, Forward Propagation, Backward propagation, Gradient Descent, Stochastic Gradient Descent, Mini Batch Gradient Descent, Dropout, Transfer Learning  
+Perceptron, Activation Functions, Forward Propagation, Backward propagation, Gradient Descent, Stochastic Gradient Descent, Mini Batch Gradient Descent, Dropout, Transfer Learning       
 
 ## Session 2
-Introduction to Convolutional Neural Networks
-Need of CNN
-Filters
-Pooling
-Regularization
+Introduction to Convolutional Neural Networks        
+Need of CNN          
+Filters        
+Pooling           
+Regularization          
 
 ## Session 3
 The participants are encouraged to do the hands on sessions shown in the Sessions 1 and 2
