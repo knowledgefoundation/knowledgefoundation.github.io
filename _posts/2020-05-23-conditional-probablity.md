@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Conditional Probablity
+title: Conditional Probablity and Bayes Theorem
 categories: 
 - Statistics
 tags:
 - 
-description: Conditional Probablity   
+description: Conditional Probablity and Bayes Theorem
 
 ---   
 
@@ -35,6 +35,8 @@ The probablity that we have picked the green ball after we have picked the red b
 Mathematically , this can be represented as          
 **P( A and B ) = P(A) * P(B|A)**
 
+More formally , P(A $ \cap $ B ) = = P(A) * P(B|A)
+
 <hr/>
 
 Consider another scenario where we are putting the ball back in the bag.
@@ -54,3 +56,22 @@ We saw the above example of an Independent event. Mathematically , this can be f
 1. P(A \| B ) = P(A)      
 2. P(B \| A ) = P(B)      
 1. P(A $ \cap $ B ) = P(A) * P(B)     
+
+<div class="alert alert-success" role="alert">
+ Bayes Theorem
+</div>   
+
+The probability of two events A and B happening, P(A$ \cap $ B), is the probability of A, P(A), times the probability of B given that A has occurred, P(B \| A).             
+
+P(A $ \cap $ B) = P(A)P(B\|A) - Equation (1)     
+
+On the other hand, the probability of A and B is also equal to the probability of B times the probability of A given B.    
+P(A $ \cap $ B) = P(B)P(A\|B) - Equation (2)      
+
+P(B)P(A\|B) = P(A)P(B\|A)  - Equation (3)      
+
+P(A\|B) = P(A)P(B\|A) / P(B) - Equation (4)      
+
+Therefore the probablity of A given B  is equal to the Probablity of A times the Probablity of B given A divided by the probablity of A       
+
+
