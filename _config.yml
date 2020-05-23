@@ -45,3 +45,7 @@ google_analytics_id: null
 plugins:
   - jekyll-paginate
   - jekyll-environment-variables
+  
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
