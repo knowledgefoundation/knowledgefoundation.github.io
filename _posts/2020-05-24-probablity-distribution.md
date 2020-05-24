@@ -24,7 +24,7 @@ Continuous probability functions can take any value within a range. Examples inc
 
 ## Probablity mass function  
 
-is a function that gives the probability of a **discrete random variable** is exactly equal to some value. The following table shows the probablity mass function of roll of a die  
+is a function that gives the probability of a **discrete random variable** which is exactly equal to some value. The following table shows the probablity mass function of roll of a die  
 
 <table class="table">
   <thead class="thead-dark">
