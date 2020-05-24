@@ -70,7 +70,7 @@ is a function that gives the probability of a **discrete random variable** which
 
 # Cumulative distribution function
 
-is a function that gives the probability of a **discrete random variable** is exactly within some value. The following table shows the cumulative distribution function of roll of a die  
+is a function that gives the probability of a **discrete random variable** is within some range. The following table shows the cumulative distribution function of roll of a die  
 
 <table class="table">
   <thead class="thead-dark">
