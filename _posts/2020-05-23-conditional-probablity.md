@@ -35,7 +35,9 @@ Event B : Probablity that you picked a green ball = 3/4
 The probablity that we have picked the green ball after we have picked the red ball is 2/5*3/4 =6/20
 
 Mathematically , this can be represented as  
-**P( A and B ) = P(A) * P(B|A)**
+**P( A and B ) = P(A) * P(B \| A)**
+
+The **P(B \| A)** denotes the probablity of B given event A has occurred. The symbol \| denotes given.  
 
 More formally , P(A $ \cap $ B ) =  P(A) * P(B|A)
 
