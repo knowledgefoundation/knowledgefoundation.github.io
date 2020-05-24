@@ -21,7 +21,13 @@ Example : A coin toss. The first coin toss event is completely independent of th
 
 Events are **Dependent**, meaning each event is affected by any other events.  
 
-Example : Suppose we have 2 red balls and 3 green balls in a bag. What is the probablity that we have picked a red ball after we have picked a green ball ? In this case, we are **not putting the ball in the bag** after we have picked the ball
+Example : Suppose we have 2 red balls and 3 green balls in a bag. 
+
+<img src="../../assets/images/conditional-probablity/2red3green.jpg"/>
+
+What is the probablity that we have picked a green ball after we have picked a red ball ? In this case, we are **not putting the ball in the bag** after we have picked the ball
+
+<img src="../../assets/images/conditional-probablity/1red3green.jpg"/>  
 
 Event A : Probablity that you picked a red ball = 2/5  
 Event B : Probablity that you picked a green ball = 3/4  
