@@ -39,7 +39,7 @@ Mathematically , this can be represented as
 
 The **P(B \| A)** denotes the probablity of B given event A has occurred. The symbol \| denotes given.  
 
-More formally , P(A $ \cap $ B ) =  P(A) * P(B|A)
+More formally , P(A $ \cap $ B ) =  P(A) * P(B \| A)
 
 ****
 
