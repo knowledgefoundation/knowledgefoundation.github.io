@@ -27,7 +27,7 @@ Example : Suppose we have 2 red balls and 3 green balls in a bag.
 
 What is the probablity that we have picked a green ball after we have picked a red ball ? In this case, we are **not putting the ball in the bag** after we have picked the ball
 
-<img src="../../assets/images/conditional-probablity/1red3green.jpg"/>  
+<img src="../../assets/images/conditional-probablity/OneredThreegreen.jpg"/>  
 
 Event A : Probablity that you picked a red ball = 2/5  
 Event B : Probablity that you picked a green ball = 3/4  
