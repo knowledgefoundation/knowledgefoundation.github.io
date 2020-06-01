@@ -29,6 +29,10 @@ Z = (X - $$\mu$$) / $$\sigma$$
 
 ## Birth Weights example  
 
+ <div class="img_row">
+	<img class="col three" src="../../assets/images/normal-distribution/birth-weight.jpg"/>
+</div>
+
 If Birth weights in a population are normally distributed with a mean of 109 oz and a standard deviation of 13 oz,
 
 ### Question

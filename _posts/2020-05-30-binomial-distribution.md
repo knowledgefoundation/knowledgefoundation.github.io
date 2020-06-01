@@ -22,10 +22,6 @@ Binomial Probability distribution has the following characteristics:
 
 5 coin tosses. What is the probability that there are 3 Heads and 2 Tails ?  This is an example of a **Binomial Probability Distribution**. 
 
-<div class="img_row">
-	<img class="col three" src="../../assets/images/binomial-distribution/dice.jpg"/>
-</div>
-
 
 Probability of a head is 0.5. One way to get 3 Heads and 2  Tails is HHHTTT. Probability is $${(0.5)}^{5}$$. The other ways of having 3 Heads and 2  Tails is provided below.  
 
