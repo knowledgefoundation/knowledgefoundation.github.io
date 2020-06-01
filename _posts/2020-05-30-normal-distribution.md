@@ -57,3 +57,15 @@ What is the chance of having birth weights of **120 oz and lighter**  when sampl
 Z score of 120 = ( 120 - 109)/13 = 0.846153846
 
 Probability of the weight 120 and lower corresponding to Z score of 0.846153846 is 0.79955  which is around 79.95%
+
+## SAT score example  
+
+For example if we wanted to know the math score that corresponded to the 90th percentile ( assuming a mean score of 500 and standard deviation of 50) ?
+
+In the Z table we would find the Z score corressponding to the probability of 0.9 which would be 1.28.
+
+Z = (X - $$\mu$$) / $$\sigma$$  
+
+1.28 = (X - 500)/50
+
+Therefore X = 500 + 50*1.28 = 500 + 64 = 564  
