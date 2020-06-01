@@ -13,6 +13,10 @@ We continue our discussion of the Discrete and Continuous Probability distributi
 
 ## Blood Types - Discrete  distribution function  
  
+ <div class="img_row">
+	<img class="col three" src="../../assets/images/discrete-distribution/discrete.jpg"/>
+</div>
+
  Here we present the distribution of different **Blood Types**   
 
 <table class="table">
