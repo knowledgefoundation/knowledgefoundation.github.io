@@ -23,7 +23,7 @@ Suppose we would like to understand the percentage of votes that a certain candi
 
 ### Sample
 
-It is a subset of the relevant population and is used to make inferences about the population.  
+It is a subset of the relevant population and is used to make inferences about the population. The sample must be **representative** of the population.  
 
 ### Example 1 - Sample  
 
