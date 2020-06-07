@@ -30,7 +30,7 @@ Mean salary = $$\bar x$$ and Standard deviation salary  = **s**
 
 Consider a random sample of n observations from a  population with mean $$\mu$$ and standard deviation $$\sigma$$.  
 
-Let $$\bar x$$ be the sample mean. The **distribution** of $$\bar x$$ is approximately **Normal** with mean = $$\mu$$ and standard deviation **s** = $$\sigma$$ \ $$\sqrt{n}$$  
+Let $$\bar x$$ be the sample mean. The **distribution** of $$\bar x$$ is approximately **Normal** with mean = $$\mu$$ and standard deviation **s** = $$\sigma$$ / $$\sqrt{n}$$  
 
 ### Example  
 
@@ -54,5 +54,5 @@ Sample 4 Mean Salary = INR 520,000 and Standard deviation salary  = s  = INR 20,
 
 <hr/>
 
-The sample salary follows a normal distribution  with mean = $$\bar x$$ = $$\mu$$ = INR 500,000 and standard deviation **s** = $$\sigma$$ \ $$\sqrt{n}$$  = INR 20,000/$$\sqrt{50}$$ since the number of students in each sample is 50.  
+The sample salary follows a normal distribution  with mean = $$\bar x$$ = $$\mu$$ = INR 500,000 and standard deviation **s** = $$\sigma$$ / $$\sqrt{n}$$  = INR 20,000/$$\sqrt{50}$$ since the number of students in each sample is 50.  
 
