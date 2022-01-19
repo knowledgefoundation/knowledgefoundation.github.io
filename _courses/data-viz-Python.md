@@ -9,6 +9,7 @@ Data Exploration and Data Visualization are the two most important tasks require
 
 With this course, you will be able to do proper data analysis and data visualization using Python. We teach from the basics of Python.
         
+
              
 For more **Details**   <a href="{{site.baseurl}}/contact" class="button">Contact</a>
 
