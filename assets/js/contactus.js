@@ -33,13 +33,13 @@ function submitToAPI(e) {
        var phone = $("#phone-input").val();
        var email = $("#email-input").val();
        var company = $("#company-input").val();
-       var msg = $("#message-input").val();
+       var message_input = $("#message-input").val();
        var data = {
           name : name,
           phone : phone,
           email : email,
           company : company,
-          msg : msg
+          message_input : message_input
         };
 
        $.ajax({
