@@ -1,6 +1,6 @@
 function submitToAPI(e) {
        e.preventDefault();
-       var URL = "https://48w2mnpl7f.execute-api.ap-south-1.amazonaws.com/PROD";
+       var URL = "https://48w2mnpl7f.execute-api.ap-south-1.amazonaws.com/PROD/ContactFormFunction";
 
             var Namere = /[A-Za-z]{1}[A-Za-z]/;
             if (!Namere.test($("#name-input").val())) {
@@ -44,7 +44,7 @@ function submitToAPI(e) {
 
        $.ajax({
          type: "POST",
-         url : "https://48w2mnpl7f.execute-api.ap-south-1.amazonaws.com/PROD",
+         url : "https://48w2mnpl7f.execute-api.ap-south-1.amazonaws.com/PROD/ContactFormFunction",
          dataType: "json",
          crossDomain: "true",
          contentType: "application/json; charset=utf-8",
@@ -55,10 +55,9 @@ function submitToAPI(e) {
             // clear form and show a success message
            window.location.href = "../contactSuccess"
          },
-         error: function (xhr, status, errorThrown) {
+         error: function () {
            // show an error message
-           alert(xhr.status);
-           alert(xhr.responseText);
+
            alert("UnSuccessfull");
          }});
      }
