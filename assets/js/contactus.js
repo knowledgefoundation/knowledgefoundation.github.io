@@ -55,8 +55,9 @@ function submitToAPI(e) {
             // clear form and show a success message
            window.location.href = "../contactSuccess"
          },
-         error: function () {
+         error: function (data) {
            // show an error message
+           alert(data);
            alert("UnSuccessfull");
          }});
      }
