@@ -1,6 +1,6 @@
 function submitToAPI(e) {
        e.preventDefault();
-       var URL = "https://8fqfwgdy5c.execute-api.us-east-1.amazonaws.com/PROD/contact-us";
+       var URL = "https://48w2mnpl7f.execute-api.ap-south-1.amazonaws.com/PROD";
 
             var Namere = /[A-Za-z]{1}[A-Za-z]/;
             if (!Namere.test($("#name-input").val())) {
